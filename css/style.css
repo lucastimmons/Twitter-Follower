@@ -1,0 +1,29 @@
+html {
+    background-color: #eee;
+    text-align: center;
+    font-family: "Lucida Grande",Verdana, sans-serif;
+    font-size: 16px;
+    color: #224;
+}
+body {
+    width: 700px;
+    margin: 30px auto;
+    background-color: #acf;
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+p {
+    font-size: 1em;
+}
+h1 {
+    font-size: 2em;
+}
+h2 {
+    font-size: 1.6em;
+}
+.arrow {
+    font-size: 4em;
+    font-weight: bold;
+}
